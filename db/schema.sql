@@ -1,0 +1,3 @@
+DROP DATABSE IF EXISTS tech_blog;
+
+CREATE DATABSE tech_blog
