@@ -1,1 +1,1 @@
-I am sorry it is incomplete. Going to add css and touchups. Was a super busy week.
+I am sorry it is incomplete. Going to add css and touchups to fix heroku deployment. Was a super busy week.
