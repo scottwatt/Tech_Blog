@@ -108,6 +108,8 @@ p {
     padding: 3% 4%;
     background-color: var(--dark);
     color: var(--primary);
+    display: flex;
+    justify-content: space-between;
 }
 
 .hero p {
@@ -129,11 +131,11 @@ p {
     list-style: none;
 }
 
-/* .navBar {
+.navBar {
     display: flex;
     align-items: center;
     justify-content: space-between;
-} */
+}
 
 .list-item {
     margin-bottom: 10px;
